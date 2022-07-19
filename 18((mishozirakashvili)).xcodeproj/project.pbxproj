@@ -13,6 +13,7 @@
 		26156BF72886F27B009A641E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26156BF52886F27B009A641E /* Main.storyboard */; };
 		26156BF92886F27D009A641E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26156BF82886F27D009A641E /* Assets.xcassets */; };
 		26156BFC2886F27D009A641E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26156BFA2886F27D009A641E /* LaunchScreen.storyboard */; };
+		26156C062886F525009A641E /* VC2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26156C052886F525009A641E /* VC2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		26156BF82886F27D009A641E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		26156BFB2886F27D009A641E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		26156BFD2886F27D009A641E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26156C052886F525009A641E /* VC2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				26156BEF2886F27B009A641E /* AppDelegate.swift */,
 				26156BF12886F27B009A641E /* SceneDelegate.swift */,
 				26156BF32886F27B009A641E /* ViewController.swift */,
+				26156C052886F525009A641E /* VC2.swift */,
 				26156BF52886F27B009A641E /* Main.storyboard */,
 				26156BF82886F27D009A641E /* Assets.xcassets */,
 				26156BFA2886F27D009A641E /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				26156BF42886F27B009A641E /* ViewController.swift in Sources */,
 				26156BF02886F27B009A641E /* AppDelegate.swift in Sources */,
 				26156BF22886F27B009A641E /* SceneDelegate.swift in Sources */,
+				26156C062886F525009A641E /* VC2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
